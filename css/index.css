@@ -1,0 +1,113 @@
+.iconfon {
+    font-family:"iconfont" !important;
+    font-size:70px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 1.2px;
+    -moz-osx-font-smoothing: grayscale;
+    display: block;
+}
+@font-face {
+    font-family: 'iconfont';  /* project id 449486 */
+    src: url('https://at.alicdn.com/t/font_449486_07l8q89oyqw4gqfr.eot');
+    src: url('https://at.alicdn.com/t/font_449486_07l8q89oyqw4gqfr.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_449486_07l8q89oyqw4gqfr.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_449486_07l8q89oyqw4gqfr.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_449486_07l8q89oyqw4gqfr.svg#iconfont') format('svg');
+}
+body{
+    background: #EEEEEE;
+}
+.tou{
+    width:100%;
+    height:2rem;
+    background: #ff6700;
+    color: #fff;
+    text-align: center;
+}
+.kuangzi{
+    width:100%;
+    height:0;
+    background: #fff;
+    overflow: hidden;
+}
+.kuangzi ul{
+    width:100%;
+    height:1rem;
+    border-bottom: .02rem #ccc solid;
+}
+.kuangzi ul li{
+    width:100%;
+    height:100%;
+}
+.kuangzi ul li a{
+    display: block;
+    width:100%;
+    height:100%;
+    font-size: .5rem;
+    line-height: 1rem;
+    color: #444;
+    padding-left: .4rem;
+}
+.tou h4{
+    font-size: .9rem;
+    line-height: 2rem;
+}
+.caidang{
+    width:.8rem;
+    height:.8rem;
+    float: left;
+    margin: .3rem 0 0 .3rem;
+}
+.banner{
+    width:100%;
+    height:4rem;
+    background: #fff;
+    margin-top: .1rem;
+}
+img{
+    width:100%;
+    height:100%;
+}
+.locn{
+    width:96%;
+    height:2.5rem;
+    padding: .2rem;
+    margin-top: .3rem;
+    background: #fff;
+}
+.locn-tou{
+    width:100%;
+    height:.5rem;
+    font-size: .4rem;
+    color: #64A0D3;
+}
+.left{
+    width:2.5rem;
+    height:1.5rem;
+    margin: .2rem 0 0 .1rem;
+    float: left;
+}
+.right{
+    width:6.2rem;
+    height:1.5rem;
+    margin: .2rem 0 0 .4rem;
+    float: left;
+    color: #777;
+    font-size: .34rem;
+    overflow: hidden;
+}
+.bottom{
+    width:100%;
+    height:2rem;
+    margin-top: .3rem;
+    background: #333;
+    overflow: hidden;
+}
+.bottom-ziti{
+    width:90%;
+    height:1.6rem;
+    margin: .2rem 5% .2rem 5%;
+    font-size: .36rem;
+    color: #777;
+}
